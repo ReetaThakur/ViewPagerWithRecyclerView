@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:text="Name"
+    android:layout_marginTop="30dp"
+    android:textColor="@color/black"
+    android:textSize="20sp"
+    android:id="@+id/name"
+    android:textStyle="bold"
+    android:layout_height="wrap_content">
+
+</TextView>
